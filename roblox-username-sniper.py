@@ -10,7 +10,7 @@ charswithnum = string.ascii_uppercase + string.digits
 numonly = string.digits
 
 # How long should the username be?
-length = 55
+length = 5
 
 # Sets the colour
 print_colour = lambda x: cprint(x, "green")
