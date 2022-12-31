@@ -4,7 +4,9 @@ import pyautogui
 totallinenum = 0
 linenum = 0
 repeatnum = -1
-countdownnum = 1
+countdownnum = 5
+
+# This script chats text files line by line
 
 
 # put a file here
